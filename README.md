@@ -18,7 +18,7 @@ ZippoTournamentManager publish/
 ├── setup.bat                   # Uniwersalny instalator środowiska .NET 10
 ├── ZippoTournamentManager.exe  # Główna aplikacja wykonywalna
 ├── ZippoTournamentManager.pdb  # Plik symboli debugowania
-└── daneTurniejowe.json        # Plik bazy danych JSON (tworzony automatycznie po uruchomieniu)
+└── daneTurniejowe.json         # Plik bazy danych JSON (tworzony automatycznie po uruchomieniu)
 ```
 
 ---
